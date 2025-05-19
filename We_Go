@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <!--This is a Comment-->
+    <h1>We Go (Lyrics)</h1>
+    <h4>Song by Ryan McLarnc & TheNextStep</h4>
+    
+    <hr>
+
+    <pre>
+    [Verse 1]
+    I first met you in
+    Late September
+    But I know, I know, I know, I know
+
+    It's a strange thing
+    To remember
+    So I'll go, I'll go, I'll go, I'll go
+
+    [Chorus]
+    There's a feeling
+    Deep in my bones
+    My tongue is tied
+    But it always feels like I'm home
+
+    My palms are sweaty
+    My mouth gets dry
+    It only happens with you
+    And I don't know why
+
+    [Verse 2]
+    Behind those eyes there's
+    Something you know, you know, you know, you know
+
+    I want to see in
+    Inside your heart
+    But you go, you go, you go, you go
+    
+    [Chorus]
+    There's a feeling
+    Deep in my bones
+    My tongue is tied
+    But it always feels like I'm home
+
+    My palms are sweaty
+    My mouth gets dry
+    It only happens with you
+    And I don't know why
+
+    [Verse 3]
+    I think I'm fallin' for you
+    'Cause I've come so un-glued
+    You amaze me
+    And make me crazy too
+
+    [Chorus 2]
+    There's a feeling
+    Deep in my bones
+    My tongue is tied
+    But it always feels like I'm home
+
+    My palms are sweaty
+    My mouth gets dry
+    It only happens with you
+    And now I know why
+    [Outro]
+    In the quiet
+    In the moonlight
+    Can we go, we go, we go, we go?
+    </pre>
+    <hr>
+
+
+
+    <script src="index.js"></script>
+</body>
+</html>
